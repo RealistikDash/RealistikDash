@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img width="256" height="256" src="https://user-images.githubusercontent.com/36131887/235499870-662d5b01-cbb5-4d98-ac01-5b0d8753256c.png">
+</p>
 
-<!--
-**RealistikDash/RealistikDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# RealistikDash
+Hi, I am RealistikDash! I am an 18 year old fascinated with programming, and a strong urge to work on major projects.
 
-Here are some ideas to get you started:
+## Skills
+- 🐍 Python connoisseur
+- 🦀 Rust enthusiast
+- 🚢 Docker devotee
+- 💾 MySQL enjoyer
+- 🤖 Cython appreciator
+- 🔍 Meilisearch follower
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+**Exams.**
