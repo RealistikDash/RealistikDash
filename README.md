@@ -14,4 +14,7 @@ Hi, I am RealistikDash! I am an 18 year old fascinated with programming, and a s
 - 🔍 Meilisearch follower
 
 ## Currently working on
-**Exams.**
+- Delta Dash Backend Infrastructure Project
+- RealistikGDPS
+
+Exams are over! (20/6/23)
