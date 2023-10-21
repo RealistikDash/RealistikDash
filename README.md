@@ -3,7 +3,7 @@
 </p>
 
 # RealistikDash
-Hi, I am RealistikDash! I am an 18 year old fascinated with programming, and a strong urge to work on major projects.
+Hi, I am RealistikDash! I am an 19 year old fascinated with programming, and a strong urge to work on major projects.
 
 ## Skills
 - 🐍 Python connoisseur
